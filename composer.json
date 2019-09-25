@@ -1,0 +1,20 @@
+{
+  "name": "asasi/component_ram",
+  "description": "ram component",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [],
+  "minimum-stability": "stable",
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "by\\component\\": "src/",
+      "byTest\\": "test/"
+    }
+  },
+  "require": {
+    "php": ">=7.2"
+  },
+  "require-dev": {
+  }
+}
